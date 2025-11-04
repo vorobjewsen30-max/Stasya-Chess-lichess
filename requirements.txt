@@ -1,0 +1,3 @@
+berserk==0.11.1
+chess==1.9.4
+requests==2.31.0
